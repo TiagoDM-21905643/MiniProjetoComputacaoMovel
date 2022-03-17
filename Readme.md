@@ -4,7 +4,7 @@ a21905643
 ![](prints/consulta_registos.png?raw=true "Consulta Registo")
 ![](prints/dashboard_1.png?raw=true "Dashboard_1")
 ![](prints/dashboard_2.png?raw=true "Dashboard_2")
-![](prints/editar_registo.png?raw=true Editar Registo")
+![](prints/editar_registo.png?raw=true "Editar Registo")
 ![](prints/lista_registos.png?raw=true "Listar Registos")
 ![](prints/msg_editar_registo.png?raw=true "Msg Editar Registo")
 ![](prints/msg_novo_registo.png?raw=true "Msg Novo Registo")
